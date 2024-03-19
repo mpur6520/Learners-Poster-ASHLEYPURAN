@@ -1,0 +1,25 @@
+/* Insert any CSS code below here */
+body{
+  background-image: url(wood.jpeg);
+}
+div {
+  text-align: center;
+  overflow: hidden;
+  border: 4px solid #262429;
+  width: 400px;
+  height: 500px;
+  font-family: sans-serif;
+  background-color: #fff;
+}
+
+#description {
+  font-family: serif;
+}
+
+#contact {
+  font-family: serif;
+}
+
+#liability {
+  font-family: serif;
+}
